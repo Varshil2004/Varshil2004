@@ -62,7 +62,7 @@
 
 - 📫 Email: [varshilkukadiya@gmail.com](mailto:varshilkukadiya@gmail.com)
 - 💼 LinkedIn: *(Add your LinkedIn link here)*
-- 🐙 GitHub: *(Add your GitHub profile link here)*
+- 🐙 GitHub: (https://github.com/Varshil2004)
 - 🌐 Portfolio: *(If available, add your live portfolio site)*
 
 ---
