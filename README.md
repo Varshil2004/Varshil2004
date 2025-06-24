@@ -61,9 +61,9 @@
 ## 🌍 Let's Connect
 
 - 📫 Email: [varshilkukadiya@gmail.com](mailto:varshilkukadiya@gmail.com)
-- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 💼 LinkedIn: (https://www.linkedin.com/in/varshil-kukadiya-915213254/)
 - 🐙 GitHub: (https://github.com/Varshil2004)
-- 🌐 Portfolio: *(If available, add your live portfolio site)*
+- 🌐 Portfolio: (varshilkukadiya.vercel.app)
 
 ---
 
