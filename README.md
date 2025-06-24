@@ -63,7 +63,7 @@
 - 📫 Email: [varshilkukadiya@gmail.com](mailto:varshilkukadiya@gmail.com)
 - 💼 LinkedIn: (https://www.linkedin.com/in/varshil-kukadiya-915213254/)
 - 🐙 GitHub: (https://github.com/Varshil2004)
-- 🌐 Portfolio: (varshilkukadiya.vercel.app)
+- 🌐 Portfolio: (https://varshilkukadiya.vercel.app/)
 
 ---
 
