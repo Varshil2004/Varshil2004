@@ -35,6 +35,7 @@ Git	<img src="https://img.icons8.com/color/48/git.png"/>
 GitHub	<img src="https://img.icons8.com/ios-glyphs/48/github.png"/>
 
 🚀 Featured Projects
+<br>
 🔗 Student Portal with PHP & MySQL
 
 🔗 Bug Tracker System
